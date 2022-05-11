@@ -1,1 +1,4 @@
-# Manual_testing_portofolio_09
+# orangeHRM specification for admin
+## testing section
+test to be added
+## SQL section
